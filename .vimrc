@@ -3,6 +3,9 @@ set softtabstop=4
 set tabstop=4
 set shiftwidth=4
 set expandtab
+set cindent
+set incsearch
+set hlsearch
 syntax on
 
 nmap <c-s> :w<CR>
